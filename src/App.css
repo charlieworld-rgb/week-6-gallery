@@ -1,0 +1,10 @@
+.thumnail{
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* i want to have my clicked image as my background 
+i also want the other iamges ina small thumbnail box at the top of the page to be clicked from  */
